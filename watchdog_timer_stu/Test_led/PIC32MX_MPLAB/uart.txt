@@ -1,0 +1,33 @@
+//Enter r to refresh display
+//r LF CR
+72 A D
+
+//o5 LF CR
+//6F 35 A D
+
+
+//Enter t to read fridge temperature
+74 A D
+
+//Enter e when the machine's money is removed
+65 A D
+
+//Enter h to find out the last transaction time (in seconds)
+68 A D
+
+//Enter m to read the amount of quarters currently in the machine
+6d A D
+//Enter s to read the soda stock
+73 A D
+//Enter p to change soda prices
+70 A D
+//Enter k to check out from servicing
+6b A D
+
+// Tested delay section
+// Delays don't work properly
+//wait 0 sec
+//wait 100 ms
+
+//A string followed by LF CR
+//61 62 63 20 64 65 66 A D

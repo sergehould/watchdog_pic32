@@ -1,0 +1,42 @@
+//r LF CR
+//72 A D
+
+//f10
+//66 31 30 A D
+
+//Enter t to read fridge temperature
+//74 A D
+
+//Enter e when the machine's money is removed
+//65 A D
+
+//Enter h to find out the last transaction time (in seconds)
+//68 A D
+
+//Enter m to read the amount of quarters currently in the machine
+//6D A D
+
+//Enter s to read the soda stock
+//73 A D
+
+//Enter p to change soda prices
+//70 33 A D
+
+//Enter k to check out from servicing
+6B A D
+
+//Enter fp
+//66 70 35 A D
+
+//Enter v followed by a 2 digits value between 00 and 99 to load Diet Coca Cola bottles 
+//31 31 30 A D
+
+//c 10
+//63 33 31 A D
+
+//cp 10
+//63 70 33 A D
+
+//6C 70 31 30 A D
+
+//30 31 30 A D
